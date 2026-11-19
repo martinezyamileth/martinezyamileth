@@ -1,81 +1,87 @@
 
 <div align="center">
 
-# Yamileth Martinez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=160&section=header&text=Yamileth%20Martinez&fontSize=38&fontColor=9E3666&fontAlignY=35" width="100%"/>
 
-### Software Engineering Student
+<h3>Software Engineering Student</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=120&section=header" width="100%"/>
+<p>
+  <strong>Mexico | Software Development | Technology</strong>
+</p>
 
-**Welcome to my GitHub profile**
-
-Software Engineering Student | Mexico
-
-*Learning, creating and growing as a developer.*
+<p><i>Learning, creating and growing as a developer.</i></p>
 
 </div>
 
----
+<br>
 
-### About Me
+<h2>About Me</h2>
 
-I'm a Software Engineering student passionate about programming, technology and creating software solutions.
+<p>
+I'm a Software Engineering student passionate about programming,
+technology and creating software solutions.
+</p>
 
-- Currently studying Software Engineering.
-- Interested in web development and databases.
-- Improving my programming and problem-solving skills.
-- Working on academic and personal projects.
+<ul>
+  <li>Currently studying Software Engineering.</li>
+  <li>Interested in web development, databases and software design.</li>
+  <li>Improving my programming and problem-solving skills.</li>
+  <li>Working on academic and personal projects.</li>
+</ul>
 
----
+<br>
 
-### Tech Stack
+<h2>Tech Stack</h2>
 
-**Programming Languages**
+<h3>Programming Languages</h3>
 
-![Java](https://img.shields.io/badge/Java-F4B8D1?style=for-the-badge&logo=openjdk&logoColor=black)
-![C](https://img.shields.io/badge/C-F4B8D1?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F4B8D1?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Java-F4B8D1?style=for-the-badge&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-F4B8D1?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F4B8D1?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Web Development**
+<h3>Web Development</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-F9D7E5?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-F9D7E5?style=for-the-badge&logo=css&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/HTML5-F9D7E5?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-F9D7E5?style=for-the-badge&logo=css&logoColor=black"/>
+</p>
 
-**Databases & Tools**
+<h3>Databases & Tools</h3>
 
-![MySQL](https://img.shields.io/badge/MySQL-F4B8D1?style=for-the-badge&logo=mysql&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F9D7E5?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-F9D7E5?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-F4B8D1?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/MySQL-F4B8D1?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F9D7E5?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-F9D7E5?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-F4B8D1?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+</p>
 
----
+<br>
 
-### Featured Projects
+<h2>Currently Learning</h2>
 
-| Project | Description |
-|---------|-------------|
-| [Shopping List Manager](https://github.com/martinezyamileth/Shopping-List-Manager) | JavaScript shopping list application |
-| [Notes](https://github.com/martinezyamileth/Notes) | Notes app with LocalStorage |
-| [NATGIO](https://github.com/martinezyamileth/NATGIO) | HTML web development project |
+<p>
+<img src="https://img.shields.io/badge/Advanced_Java-F9D7E5?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Databases-F4B8D1?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Software_Design-F9D7E5?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Web_Development-F4B8D1?style=flat-square&logoColor=black"/>
+</p>
 
----
+<br>
 
-### GitHub Statistics
+<h2>Connect With Me</h2>
+
+<a href="https://github.com/martinezyamileth">
+<img src="https://img.shields.io/badge/GitHub-F4B8D1?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br><br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=martinezyamileth&show_icons=true&bg_color=FFF0F6&title_color=C76B99&text_color=555555&icon_color=C76B99&border_color=F4B8D1" width="420"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=110&section=footer" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezyamileth&layout=compact&bg_color=FFF0F6&title_color=C76B99&text_color=555555&border_color=F4B8D1" width="350"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=100&section=footer" width="100%"/>
-
-*Always learning, always improving.*
+<i>Always learning, always improving.</i>
 
 </div>
