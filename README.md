@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=160&section=header&text=Yamileth%20Martinez&fontSize=38&fontColor=9E3666&fontAlignY=35" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=160&section=header&text=Yamileth%20Mart%C3%ADnez&fontSize=38&fontColor=9E3666&fontAlignY=35" width="100%"/>
+
 
 <h3>Software Engineering Student</h3>
 
