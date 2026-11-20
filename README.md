@@ -25,7 +25,6 @@ technology and creating software solutions.
 <ul>
   <li>Currently studying Software Engineering.</li>
   <li>Interested in web development, databases and software design.</li>
-  <li>Improving my programming and problem-solving skills.</li>
   <li>Working on academic and personal projects.</li>
 </ul>
 
