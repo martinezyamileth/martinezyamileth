@@ -83,17 +83,7 @@ Web Development | Software Engineering |
 Database Systems
 </p>
 
-<br>
 
-<h2>GitHub Statistics</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=martinezyamileth&show_icons=true&theme=default&title_color=9E3666&icon_color=E78BB4&text_color=555555&bg_color=FFF5F9&border_color=F4B8D1" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezyamileth&layout=compact&title_color=9E3666&text_color=555555&bg_color=FFF5F9&border_color=F4B8D1" width="45%"/>
-
-</div>
 
 <br><br>
 
